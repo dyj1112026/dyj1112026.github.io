@@ -9,9 +9,11 @@ profile:
   image: yujing.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Mathematics Undergrad Student from university of Nottingham China</p>
+    <p>Mathematics Student from university of Nottingham China</p>
     <p>smyyd6@nottingham.edu.cn</p>
-    <p>Year two</p>
+    <p>dyj1112026@gmail.com</p>
+    
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
