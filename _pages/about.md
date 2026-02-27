@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: 微信图片_20260227175835_331_61.jpg
+  image: yujing.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Mathematics Undergrad Student from university of Nottingham China</p>
