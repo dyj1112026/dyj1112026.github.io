@@ -42,5 +42,5 @@ Besides, I am also interested in calligraphy and piano, enjoying the beauty of a
 
 Feel free to reach out to me for discussions or potential collaborations!
 
-##Projects##
+## Projects ##
 {% include selected_papers.liquid %}
