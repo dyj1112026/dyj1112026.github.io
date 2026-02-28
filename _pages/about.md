@@ -29,16 +29,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am Yujing Deng, a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China (UNNC).
+I am a 2nd-year MAM undergraduate student at University of Nottingham Ningbo China (UNNC).
 
-My primary interests lie at the intersection of mathematical theory and practical applications. I am particularly passionate about exploring probability distributions, linear algebra, and how these foundational theories can be applied to build intelligent systems in **Robotics** and **Artificial Intelligence**.
+My primary interests lie at the intersection of mathematical theory and practical applications, especially in **Robotics** and **Artificial Intelligence**.
 
-Currently, I am actively expanding my knowledge in algorithms , aiming to bridge the gap between abstract mathematical concepts and real-world technological solutions. 
+I am passionate about robotics **whole-body object interaction** and how to **rollout data learning** from real world for robotics. 
 
 * **Core Coursework:** Linear Algebra, Probability Theory, Real Analysis, Group theory, Number Theory.
 * **Interests:** Robotics, AI, Real Analysis.
-
-Besides, I am also interested in calligraphy and piano, enjoying the beauty of art.Also,I enjoy hiking, and I also enjoy the challenges that come along the way – and I take pleasure in overcoming them.  
 
 Feel free to reach out to me for discussions or potential collaborations!
 
