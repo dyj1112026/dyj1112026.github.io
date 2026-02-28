@@ -41,3 +41,6 @@ Currently, I am actively expanding my knowledge in algorithms , aiming to bridge
 Besides, I am also interested in calligraphy and piano, enjoying the beauty of art.Also,I enjoy hiking, and I also enjoy the challenges that come along the way – and I take pleasure in overcoming them.  
 
 Feel free to reach out to me for discussions or potential collaborations!
+
+##Projects##
+{% include selected_papers.liquid %}
